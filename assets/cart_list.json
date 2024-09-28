@@ -1,0 +1,60 @@
+[
+    {
+        "productId" : 1,
+        "productName" : "Okra Box",
+        "farmName" : "Martha's Fresh Farm",
+        "productQuantity": "600 gm",
+        "productPrice": "0.750" ,
+        "productOfferPrice": "0.60" ,
+        "productCount" : 1
+    },
+    {
+        "productId" : 2,
+        "productName" : "Chilli Long Green",
+        "farmName" : "Joeseph Farm",
+        "productQuantity": "800 gm",
+        "productPrice": "0",
+        "productOfferPrice": "1.55" ,
+        "productCount" : 1
+    },
+    {
+        "productId" : 3,
+        "productName" : "Cauliflower Purple",
+        "farmName" : "Martha's Fresh Farm",
+        "productQuantity": "750 gm",
+        "productPrice": "2.350" ,
+        "productOfferPrice": "2.23" ,
+        "productCount" : 1
+        
+    },
+    {
+        "productId" : 4,
+        "productName" : "Organic Eggs",
+        "farmName" : "Joeseph Farm",
+        "productQuantity": "9 pcs",
+        "productPrice": "0",
+        "productOfferPrice": "1.5" ,
+        "productCount" : 1
+        
+    },
+    {
+        "productId" : 5,
+        "productName" : "Cow Milk",
+        "farmName" : "Martha's Fresh Farm",
+        "productQuantity": "2 L",
+        "productPrice": "1.5",
+        "productOfferPrice": "0.90" ,
+        "productCount" : 1
+        
+    },
+    {
+        "productId" : 6,
+        "productName" : "Tine Caramel Cheese",
+        "farmName" : "Mathew Milk Farm",
+        "productQuantity": "250 gm",
+        "productPrice": "3.300" ,
+        "productOfferPrice": "2.81 ",
+        "productCount" : 1
+        
+    }
+]
